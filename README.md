@@ -4,6 +4,9 @@ ExpressCat -【快递喵】
 >#### 快递喵：查快递的微信小程序 
 
 ------
+># 部分截图
+<img src="https://github.com/kongdefu/weixin-ExpressCat/raw/master/image/one.png" width="365" height="619"/> <img src="https://github.com/kongdefu/weixin-ExpressCat/raw/master/image/two.png" width="365" height="619"/> 
+<img src="https://github.com/kongdefu/weixin-ExpressCat/raw/master/image/three.png" width="365" height="619"/> <img src="https://github.com/kongdefu/weixin-ExpressCat/raw/master/image/four.png" width="365" height="619"/> 
 
 >### 项目说明
 
