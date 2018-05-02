@@ -17,7 +17,7 @@ ExpressCat -【快递喵】
 
 >### 查看项目代码
 
-1. [Clone](https://github.com/kongdefu/ExpressCat.git) 或者 [Download](https://github.com/kongdefu/ExpressCat/archive/master.zip) 代码到本地。
+1. [Clone](https://github.com/kongdefu/ExpressCat.git) 或者 [Download](https://github.com/kongdefu/ExpressCat.git) 代码到本地。
 2. 在小程序客户端中添加项目。
     注意：
     	如果没有AppID，则点击无AppID。无AppID会有一些功能限制，如无法手机预览等。
